@@ -6,8 +6,10 @@
 
 **询问：** 是否存在子集 $A^{\prime} \subseteq A$，使得 
 
-$$\sum_{a \in a^{\prime}} S(a)=\sum_{a \in A-A^{\prime}} S(a)$$
+$$\sum_{a \in A^{\prime}} S(a)=\sum_{a \in A-A^{\prime}} S(a)$$
 
+
+> 划分问题可以看成的将一堆价值不等的物体分成两堆价值相等的，每一堆的价值是总价值的一半
 
 ## 核心思路
 
